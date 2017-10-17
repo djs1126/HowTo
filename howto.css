@@ -1,0 +1,53 @@
+ div.hello {
+ margin: 20px;
+            
+} 
+.outer-box {
+  background-color:grey;
+  margin:10px;
+  padding:10px;
+  min-height:300px;
+}
+.name {
+  color:white;
+  font-family:tahoma;
+  margin-left:20px;
+}
+.picture {
+  margin-left:20px;
+  float:left;
+  margin-right:20px;
+  margin-bottom:10px;
+  border:1px solid black;
+}
+.bio {
+ font-family:tahoma;
+ padding-left:20px;
+ padding-right:20px;
+ padding-bottom:20px;
+}
+               
+h1{ 
+  font-family: 'Lobster', serif;
+  font-size: 45px;
+}
+h2{
+ font-family: 'Lobster', serif;
+ font-size: 35px;
+}
+h3{
+ font-family: 'Lobster', serif;
+ font-size: 25px;
+ color:#ff000;
+}
+body{
+ font-family: 'Crete Round', serif;
+ font-size: 17px;
+}
+.squarebullet {
+  list-style-type:square
+}
+#ad {
+  float:right;
+  
+}
